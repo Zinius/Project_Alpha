@@ -10,6 +10,8 @@
 	<header>헤더입니다.
 		<div> 회원가입</div>
 		<div>about</div>
+		<div> 관리자 </div>
+		<div> 젠장.....</div>
 	</header>
 	<article>본문입니다.
 		<section>기사1</section>
